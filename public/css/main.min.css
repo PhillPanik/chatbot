@@ -1,0 +1,12 @@
+.index-div {
+  padding: 0;
+  min-width: 300px!important;
+  max-width: 600px;
+  margin: auto
+}
+.index-div .card {
+  height: 100%
+}
+.index-div .card-body {
+  overflow: auto
+}
